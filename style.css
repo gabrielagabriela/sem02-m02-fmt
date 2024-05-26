@@ -29,16 +29,20 @@ section {
   padding: 20px;
 }
 
-.sobre {
+.sobre,
+.projetos,
+.habilidades,
+.contato {
+  margin-top: 20px;
+}
+
+.sobre,
+.habilidades {
   background-color: #f4f4f4;
 }
 
 .projetos {
   background-color: #e9e9e9;
-}
-
-.habilidades {
-  background-color: #f4f4f4;
 }
 
 .projeto {
@@ -65,10 +69,6 @@ footer {
   color: #fff;
   padding: 20px;
   text-align: center;
-}
-
-.contato {
-  margin-top: 20px;
 }
 
 .contato-titulo {
